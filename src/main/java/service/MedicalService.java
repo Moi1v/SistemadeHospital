@@ -1,6 +1,5 @@
 package service;
 
-
 import dao.CitaDAO;
 import dao.MedicoDAO;
 import dao.PacienteDAO;
@@ -148,5 +147,9 @@ public class MedicalService {
     public List<Paciente> listarPacientesConCitas() {
         return pacienteDAO.findAllWithCitas();
     }
-}
 
+    // MÉTODO AGREGADO: Listar todas las citas
+    public List<Cita> listarTodasLasCitas() {
+        return citaDAO.findAll();
+    }
+}
