@@ -1,4 +1,12 @@
 package model;
 
-public class Especialidad {
+public enum Especialidad {
+    CARDIOLOGIA,
+    DERMATOLOGIA,
+    GINECOLOGIA,
+    NEUROLOGIA,
+    PEDIATRIA,
+    PSIQUIATRIA,
+    TRAUMATOLOGIA,
+    MEDICINA_GENERAL
 }
