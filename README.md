@@ -425,4 +425,4 @@ El sistema está preparado para producción con todas las mejores prácticas apl
 
 **Fecha de entrega**: Septiembre 2025  
 **Universidad**: Universidad San Pablo de Guatemala  
-**Curso**: Programación con Frameworks
+**Curso**: Programación IV
