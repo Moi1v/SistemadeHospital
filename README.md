@@ -424,5 +424,5 @@ El sistema está preparado para producción con todas las mejores prácticas apl
 ---
 
 **Fecha de entrega**: 19 de Septiembre 2025  
-**Universidad**: Universidad San Pablo de Guatemala  
+**Universidad**: Universidad San Pablo De Guatemala
 **Curso**: Programación IV
